@@ -1,4 +1,4 @@
-![OCTO - Simplifying Connectivity for Tours, Activities & Attractions]() 
+![OCTO - Simplifying Connectivity for Tours, Activities & Attractions](https://github.com/octotravel/.github/blob/main/octo-github-header.png) 
 
 [OCTO](https://www.octo.travel/) (Open Connectivity for Tours, Activities, and Attractions) is an open standard API specification for the in-destination experiences sector of the travel industry. The standard defines agreed-upon schemas, endpoints, and capabilities commonly needed when connecting platforms, resellers, OTAs, and other technologies in tours, activities, and attractions. 
 
