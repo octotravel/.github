@@ -6,8 +6,8 @@
 
 ## Links & Resources
 
-* [OCTO Wenbsite](https://www.octo.travel/)
-* [Developer Hub](https://docs.ventrata.com/)
+* [OCTO Website](https://www.octo.travel/)
+* [OCTO Developer Hub](https://docs.ventrata.com/)
 * [Official OCTO API Specification (Swagger)](https://app.swaggerhub.com/apis-docs/OCTO-API/OCTO-API/1.0)
 
 Become a member and contribute to further developments of OCTO.
