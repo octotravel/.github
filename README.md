@@ -8,7 +8,7 @@
 
 * [OCTO Wenbsite](https://www.octo.travel/)
 * [Developer Hub](https://docs.ventrata.com/)
-* [Official OCTO API Specification](https://opensource.microsoft.com/azure-credits)
+* [Official OCTO API Specification]()
 
 Become a member and contribute to further developments of OCTO.
 
